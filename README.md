@@ -1,6 +1,8 @@
 # currency_object_detection
 
 I worked on this projects in google colab, so the paths in dataset.yml and the folders of train val test were presented in my drive.
+The User Interface :
+![appaa](https://github.com/mahdihammi/currency_object_detection/assets/89527502/55731765-a31b-48d4-be6f-2ed398088082)
 
 Here's Some of the results of detections : 
 ![10dt](https://github.com/mahdihammi/currency_object_detection/assets/89527502/4f713409-b47e-4c86-b976-1a8ac931d4dc)
