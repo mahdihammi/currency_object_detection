@@ -9,8 +9,7 @@ The objective of this project is to create a reliable system to detect and ident
 # Dataset Preparation
 Image Collection: Images of various denominations of Tunisian banknotes were collected from different sources.
 Data Augmentation: Techniques such as rotation, flipping, and scaling were applied to increase the size and diversity of the dataset and improve the robustness of the model.
-
-## Annotation: The images were annotated using Labelimg, saving the annotations in YOLO format.
+Annotation: The images were annotated using Labelimg.
 Dataset Organization: The dataset was organized into images and labels folders.
 Data Split: The dataset was split into training, validation, and test sets.
 
