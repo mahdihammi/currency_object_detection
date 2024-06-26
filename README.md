@@ -7,16 +7,16 @@ I worked on this projects in google colab, so the paths in dataset.yml and the f
 The objective of this project is to create a reliable system to detect and identify different denominations of Tunisian banknotes. This system can be used in various applications, such as automated teller machines (ATMs), vending machines, and other financial technologies requiring currency recognition.
 
 # Dataset Preparation
-Image Collection: Images of various denominations of Tunisian banknotes were collected from different sources.
-Data Augmentation: Techniques such as rotation, flipping, and scaling were applied to increase the size and diversity of the dataset and improve the robustness of the model.
-Annotation: The images were annotated using Labelimg.
-Dataset Organization: The dataset was organized into images and labels folders.
-Data Split: The dataset was split into training, validation, and test sets.
+Image Collection: Images of various denominations of Tunisian banknotes were collected from different sources. <br>
+Data Augmentation: Techniques such as rotation, flipping, and scaling were applied to increase the size and diversity of the dataset and improve the robustness of the model.<br>
+Annotation: The images were annotated using Labelimg.<br>
+Dataset Organization: The dataset was organized into images and labels folders.<br>
+Data Split: The dataset was split into training, validation, and test sets.<br>
 
 # Model Training
-Downloading YOLOv5: The YOLOv5 repository was cloned and set up for training.
-Custom Dataset Preparation: The annotated images and labels were placed in the appropriate directories by creating a .yaml file to define the dataset structure. The .yaml file should specify the paths to the training, validation, and test datasets, as well as the names of the classes.
-Training: The YOLOv5 model was trained on the prepared dataset with specified parameters to optimize performance.
+Downloading YOLOv5: The YOLOv5 repository was cloned and set up for training.<br>
+Custom Dataset Preparation: The annotated images and labels were placed in the appropriate directories by creating a .yaml file to define the dataset structure. The .yaml file should specify the paths to the training, validation, and test datasets, as well as the names of the classes.<br>
+Training: The YOLOv5 model was trained on the prepared dataset with specified parameters to optimize performance.<br>
 Model Export: After training, the best model was exported for inference.
 
 # Web Application
