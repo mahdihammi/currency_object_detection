@@ -22,13 +22,13 @@ Model Export: After training, the best model was exported for inference.
 
 # Web Application
 Streamlit Setup: Developed a Streamlit application to provide a user-friendly interface for banknote detection.
+You can see The User Interface in streamlit :
+
+![appaa](https://github.com/mahdihammi/currency_object_detection/assets/89527502/55731765-a31b-48d4-be6f-2ed398088082)
 
 # Challenges
 Computer Resources: During the development of this project, I encountered a significant challenge related to the limitations of my computer resources. Specifically, the real-time detection feature often failed and experienced substantial lag.
 
-## The User Interface :
-
-![appaa](https://github.com/mahdihammi/currency_object_detection/assets/89527502/55731765-a31b-48d4-be6f-2ed398088082)
 
 Here's Some of the results of detections : <br>
 ![10dt](https://github.com/mahdihammi/currency_object_detection/assets/89527502/4f713409-b47e-4c86-b976-1a8ac931d4dc)
