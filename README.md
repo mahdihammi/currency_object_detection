@@ -30,7 +30,7 @@ You can see The User Interface in streamlit :
 Computer Resources: During the development of this project, I encountered a significant challenge related to the limitations of my computer resources. Specifically, the real-time detection feature often failed and experienced substantial lag.
 
 
-Here's Some of the results of detections : <br>
+# Here are Some of the results of the inference : <br>
 ![10dt](https://github.com/mahdihammi/currency_object_detection/assets/89527502/4f713409-b47e-4c86-b976-1a8ac931d4dc)
 ![test_img_33](https://github.com/mahdihammi/currency_object_detection/assets/89527502/5d5769d5-8475-4332-b51d-42ca8d2f0a68)
 ![10dtall](https://github.com/mahdihammi/currency_object_detection/assets/89527502/aead301e-3c2c-4db3-8e77-d1a7d0ca036a)
